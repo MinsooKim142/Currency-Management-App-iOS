@@ -10,8 +10,8 @@ I obtained extensive skills of Swift and XCode as well as utilizing Mac OS.
 
 <img src="https://user-images.githubusercontent.com/99574068/178652389-e4fa395f-b4e5-4335-ae9f-cefe5eaf4d89.PNG" width=30% height=30%>
 
-The introductory page introduces my the details of my application 
-as well as the capabilities of the Currency Management App.
+The introductory page introduces my the details of my application
+  as well as the capabilities of the Currency Management App.
 
 
 
@@ -28,7 +28,8 @@ The currency convert page allows users to convert various types of world currenc
 
 <img src="https://user-images.githubusercontent.com/99574068/178650417-289b4f93-8d45-4cfc-aa4e-d68443fc866a.PNG" width=30% height=30%>
 
-The Real-Time Statistics page assists the user to gain information of real-time statistics of various types of currencies that are used around the world.
+The Real-Time Statistics page assists the user to gain information of real-time statistics 
+  of various types of currencies that are used around the world.
 <br>
 <br>
 
@@ -36,4 +37,4 @@ The Real-Time Statistics page assists the user to gain information of real-time 
 <img src="https://user-images.githubusercontent.com/99574068/178650670-cbe7ba7b-a05f-46bf-918c-2c82bf0a9033.PNG" width=30% height=30%>
 
 Lastly, the Contacts page displays my contact information 
-which allows the users get in touch with ideas for further improvement. 
+  which allows the users get in touch with ideas for further improvement. 
