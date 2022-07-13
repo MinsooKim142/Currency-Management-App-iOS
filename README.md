@@ -12,13 +12,21 @@ I obtained extensive skills of Swift and XCode as well as utilizing Mac OS.
 
 The introductory page introduces my the details of my application and the capabilities of the Currency Management App.
 
-![management2](https://user-images.githubusercontent.com/99574068/178650330-36e38bfc-13ac-4fcc-8e0c-f386f2d87325.PNG)
+<br>
+<br>
+
+
+<img src = "https://user-images.githubusercontent.com/99574068/178650330-36e38bfc-13ac-4fcc-8e0c-f386f2d87325.PNG" width="500" height"1083.225">
 
 The currency convert page allows users to convery various types of world currency from USD. 
+<br>
+<br>
 
 ![management3](https://user-images.githubusercontent.com/99574068/178650417-289b4f93-8d45-4cfc-aa4e-d68443fc866a.PNG)
 
-The Real-Time Statistics page assists the user to gain information of real-time statistics of various types of currencies that are used around the world. 
+The Real-Time Statistics page assists the user to gain information of real-time statistics of various types of currencies that are used around the world.
+<br>
+<br>
 
 ![management4](https://user-images.githubusercontent.com/99574068/178650670-cbe7ba7b-a05f-46bf-918c-2c82bf0a9033.PNG)
 
