@@ -6,7 +6,9 @@ I obtained extensive skills of Swift and XCode as well as utilizing Mac OS.
 
 <img src="https://user-images.githubusercontent.com/99574068/178650093-52db9c06-aa19-4916-9c33-6a9116b9ed33.gif" width="500" height="1083.225">
 
-![management1](https://user-images.githubusercontent.com/99574068/178650232-cc1555c9-00a4-4cda-8ba0-b78eb8ce5695.PNG)
+
+
+<img src="[https://user-images.githubusercontent.com/99574068/178650093-52db9c06-aa19-4916-9c33-6a9116b9ed33.gif](https://user-images.githubusercontent.com/99574068/178650232-cc1555c9-00a4-4cda-8ba0-b78eb8ce5695.PNG)" width="500" height="1083.225">
 
 The introductory page introduces my the details of my application and the capabilities of the Currency Management App.
 
