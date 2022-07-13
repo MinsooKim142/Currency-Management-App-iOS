@@ -2,6 +2,10 @@
 the Currency Management Application allows users to efficiently gain information and manage world currency. Developing this iOS application, 
 I obtained extensive skills of Swift and XCode as well as utilizing Mac OS. 
 
+## Skills Obtained
+Conducting this project I was able to obtain the ability to utilize XCode, Swift, and Mac OS in order to create an iOS application.
+Furthermore, I gained UI and UX development skills by designing and creating an application.
+
 ## Demo
 
 <img src="https://user-images.githubusercontent.com/99574068/178650093-52db9c06-aa19-4916-9c33-6a9116b9ed33.gif" width="500" height="1083.225">
