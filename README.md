@@ -16,7 +16,7 @@ The introductory page introduces my the details of my application and the capabi
 <br>
 
 
-<img src = "https://user-images.githubusercontent.com/99574068/178650330-36e38bfc-13ac-4fcc-8e0c-f386f2d87325.PNG" width="500" height"1083.225">
+<img src="https://user-images.githubusercontent.com/99574068/178650330-36e38bfc-13ac-4fcc-8e0c-f386f2d87325.PNG" width="500" height"1083.225">
 
 The currency convert page allows users to convery various types of world currency from USD. 
 <br>
