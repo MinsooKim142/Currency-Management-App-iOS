@@ -4,7 +4,7 @@ I obtained extensive skills of Swift and XCode as well as utilizing Mac OS.
 
 ## Demo
 
-![[https://user-images.githubusercontent.com/99574068/178650093-52db9c06-aa19-4916-9c33-6a9116b9ed33.gif | width=100]]
+<img src="[https://your-image-url.type](https://user-images.githubusercontent.com/99574068/178650093-52db9c06-aa19-4916-9c33-6a9116b9ed33.gif)" width="100" height="100">
 
 ![management1](https://user-images.githubusercontent.com/99574068/178650232-cc1555c9-00a4-4cda-8ba0-b78eb8ce5695.PNG)
 
