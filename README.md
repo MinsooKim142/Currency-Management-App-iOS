@@ -9,15 +9,15 @@ I obtained extensive skills of Swift and XCode as well as utilizing Mac OS.
 ![management2](https://user-images.githubusercontent.com/99574068/178651967-43c0c9d1-969b-4063-a462-6aaf0ba4e880.PNG)
 
 
-<img src="[https://user-images.githubusercontent.com/99574068/178650232-cc1555c9-00a4-4cda-8ba0-b78eb8ce5695.PNG](https://user-images.githubusercontent.com/99574068/178651967-43c0c9d1-969b-4063-a462-6aaf0ba4e880.PNG)" width=30% height=30%>
+<img src="https://user-images.githubusercontent.com/99574068/178651967-43c0c9d1-969b-4063-a462-6aaf0ba4e880.PNG" width=30% height=30%>
 
 The introductory page introduces my the details of my application and the capabilities of the Currency Management App.
 
 <br>
 <br>
 
+<img src="https://user-images.githubusercontent.com/99574068/178651967-43c0c9d1-969b-4063-a462-6aaf0ba4e880.PNG" width=30% height=30%>
 
-<img src="https://user-images.githubusercontent.com/99574068/178650330-36e38bfc-13ac-4fcc-8e0c-f386f2d87325.PNG" width="500" height"1083.225">
 
 The currency convert page allows users to convery various types of world currency from USD. 
 <br>
